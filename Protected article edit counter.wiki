@@ -1,0 +1,86 @@
+{{#switch: {{{2|{{{protection_level}}}}}}
+|#default={{userbox
+| border-c = black
+| id       = [[File:OOjs UI icon edit-ltr-gray.svg|40px]]
+| id-c     = white
+| info     = This user has made '''{{{1|x}}}''' {{#ifeq:{{{1}}}|1|edit|edits}} on ''unprotected'' {{#ifeq:{{{1}}}|1|page|pages}}.
+| info-c   = #ffffff
+| info-fc  = {{{info-fc|black}}}
+| info-s   = {{{info-s|8}}}
+}}
+|pcp={{userbox
+| border-c = black
+| id       = [[File:Pending-protection-shackle.svg|40px]]
+| id-c     = white
+| info     = This user has made '''{{{1|x}}}''' {{#ifeq:{{{1}}}|1|edit|edits}} on ''pending-changes-protected'' {{#ifeq:{{{1}}}|1|page|pages}}.
+| info-c   = #EEEEEE
+| info-fc  = {{{info-fc|black}}}
+| info-s   = {{{info-s|8}}}
+}}
+|sp={{userbox
+| border-c = black
+| id       = [[File:Semi-protection-shackle.svg|40px]]
+| id-c     = white
+| info     = This user has made '''{{{1|x}}}''' {{#ifeq:{{{1}}}|1|edit|edits}} on ''semi-protected'' {{#ifeq:{{{1}}}|1|page|pages}}.
+| info-c   = #777777
+| info-fc  = {{{info-fc|white}}}
+| info-s   = {{{info-s|8}}}
+}}
+|ecp={{userbox
+| border-c = black
+| id       = [[File:Extended-protection-shackle.svg|40px]]
+| id-c     = white
+| info     = This user has made '''{{{1|x}}}''' {{#ifeq:{{{1}}}|1|edit|edits}} on ''extended-confirmed-protected'' {{#ifeq:{{{1}}}|1|page|pages}}.
+| info-c   = #0084ff
+| info-fc  = {{{info-fc|white}}}
+| info-s   = {{{info-s|8}}}
+}}
+|fp={{userbox
+| border-c = black
+| id       = [[File:Full-protection-shackle.svg|40px]]
+| id-c     = white
+| info     = This user has made '''{{{1|x}}}''' {{#ifeq:{{{1}}}|1|edit|edits}} on ''full-protected'' {{#ifeq:{{{1}}}|1|page|pages}}.
+| info-c   = #e8e805
+| info-fc  = {{{info-fc|white}}}
+| info-s   = {{{info-s|8}}}
+}}
+|tp={{userbox
+| border-c = black
+| id       = [[File:Template-protection-shackle.svg|40px]]
+| id-c     = white
+| info     = This user has made '''{{{1|x}}}''' {{#ifeq:{{{1}}}|1|edit|edits}} on ''template-protected'' {{#ifeq:{{{1}}}|1|page|pages}}.
+| info-c   = #ff2eee
+| info-fc  = {{{info-fc|white}}}
+| info-s   = {{{info-s|8}}}
+}}
+|cp={{userbox
+| border-c = black
+| id       = [[File:Cascade-protection-shackle.svg|40px]]
+| id-c     = white
+| info     = This user has made '''{{{1|x}}}''' {{#ifeq:{{{1}}}|1|edit|edits}} on ''cascade-protected'' {{#ifeq:{{{1}}}|1|page|pages}}.
+| info-c   = #16c45e
+| info-fc  = {{{info-fc|white}}}
+| info-s   = {{{info-s|8}}}
+}}
+|ip={{userbox
+| border-c = black
+| id       = [[File:Interface-protection-shackle.svg|40px]]
+| id-c     = white
+| info     = This user has made '''{{{1|x}}}''' {{#ifeq:{{{1}}}|1|edit|edits}} on ''interface-protected'' {{#ifeq:{{{1}}}|1|page|pages}}.
+| info-c   = #A00000
+| info-fc  = {{{info-fc|white}}}
+| info-s   = {{{info-s|8}}}
+}}
+|op={{userbox
+| border-c = black
+| id       = [[File:Office-protection-shackle.svg|40px]]
+| id-c     = white
+| info     = This user has made '''{{{1|x}}}''' {{#ifeq:{{{1}}}|1|edit|edits}} on ''office-protected'' {{#ifeq:{{{1}}}|1|page|pages}}.
+| info-c   = #000000
+| info-fc  = {{{info-fc|white}}}
+| info-s   = {{{info-s|8}}}
+}}
+}}<noinclude>
+{{documentation}}
+<!-- Add Categories to Documentation subpage -->
+</noinclude>
