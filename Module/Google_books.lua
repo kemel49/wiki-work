@@ -19,7 +19,7 @@ function p.main(frame)
     -- URL Prefix
     local urlPrefix = "https://books.google.com/books?id="
     -- If Needed only Plain URL
-    if plainUrl == "yes" then
+    if plainUrl == "yes" or plainUrl == "y" then
         return urlPrefix..id
     end
 
