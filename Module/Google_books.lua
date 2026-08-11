@@ -5,7 +5,7 @@ function p.main(frame)
     -- Google Book id and Title and Plain URL value
     local id = args["id"] or args[1]
     local title = args["title"]
-    local plainUrl = args["plainlink"]
+    local plainUrl = args["plainurl"] or args["plain-url"]
 
     -- Check if ID is populated or not
     if id == "" or id == nil then
