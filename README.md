@@ -1,5 +1,5 @@
 # wiki-work
-![GitHub Issues](https://img.shields.io/github/issues/kemel49/wiki-work)
+<img alt="GitHub Issues" src="https://img.shields.io/github/issues/KEmel49/wiki-work">
 
 This repository contains the **MediaWiki templates and Scribunto Lua modules** that I have created for Wikimedia projects.
 
