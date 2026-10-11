@@ -1,4 +1,6 @@
 # wiki-work
+![GitHub Issues](https://img.shields.io/github/issues/kemel49/wiki-work)
+
 This repository contains the **MediaWiki templates and Scribunto Lua modules** that I have created for Wikimedia projects.
 
 The files here represent my work on Wikipedia and are kept up to date with my latest edits to the respective templates and modules on-wiki.
