@@ -8,6 +8,15 @@ The files here represent my work on Wikipedia and are kept up to date with my la
 ## Contents
 - **Template/**: Wikitext-based MediaWiki templates
 - **Module/**: Scribunto Lua modules
+### Structure
+    wiki-work/
+    ├── README.md
+    ├── Module/
+    │   ├── Cite_tweet_sandbox.lua
+    │   ├── Google_books.lua
+    │   └── medal_tally.lua
+    └── Template/
+        └── Paec.wiki
 
 ## Status
 Most of the templates and modules in this repository are already created and in use on Wikipedia.
